@@ -1,3 +1,6 @@
+# Insan Classification of Handwritten Digits using Three Different Models in Cpython By Insan Technology Company 
+# Eng.AbdAllah Islam Bin ElHassan
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import fetch_openml
